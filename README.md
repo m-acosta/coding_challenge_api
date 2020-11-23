@@ -26,7 +26,7 @@
 ```json
 [
     {
-        "name": "Name of user from https://randomuser.me/",
+        "name": "Name of user",
         "email": "Email attached to the user's name that will be enterred manually",
         "phone": "Phone number attached to the user's name that will be enterred manually"
     }
